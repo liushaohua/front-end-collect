@@ -137,7 +137,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |三生石上|[三生石上](http://www.cnblogs.com/sanshi)|#|#|#|#|js秘密花园译者|
 |司徒正美|[Ruby's Louvre](http://www.cnblogs.com/rubylouvre)|#|#|#|#|前端开发|
 |叶小钗|[叶小钗](http://www.cnblogs.com/yexiaochai)|#|#|#|#|前端开发|
-|聂微东|[Darren](http://www.cnblogs.com/Darren_code/)|#|#|#|百度移动云|前端开发|
+|聂微东|[Darren](http://www.cnblogs.com/Darren_code/)|[@聂微东](http://weibo.com/darrencode)|#|#|#|前端开发|
 |当耐特|[iamzhanglei](http://www.cnblogs.com/iamzhanglei/)|#|#|#|#|HTML5实验室作者|
 |教主|[_frank](http://www.cnblogs.com/_franky)|#|#|#|#|又一牛|
 |typeof|[typeof](http://typeof.net/)|#|#|#|#|又一牛|
